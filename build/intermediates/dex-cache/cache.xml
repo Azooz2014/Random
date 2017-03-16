@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_00aa779b6b7b94746b7abdb5884ea57ef2aa2c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_806cd737a0d432f17f5f202bceadca86a61ca484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_333d93d092dbf23ff59a88a3bd93318eea6fa8f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_1e4c3069a909513dc5f13eb0aa94f21af24286e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_fcc11f8db6a811169f973e45f9329ac404318e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e1ddacf0a67e3bb46231548730c3e80fe9ecbc6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_7a866606102805ede1ee3be1e5508731ed6a65d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9385fcfc5cca6386617691b02d483e27fc120e1">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9cb670ec2cc842c0e35af6e4ebb2e2ea3ec1e8db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_406b736dc1065645a38779e9d84844346c81307c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b03ebe0efc776eaad173797ab0c5584091f8c9d">
+        <dex dex="C:\Users\f-azo\Documents\AndroidStudioProjects\Random\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5cec948dd738a3645361dfed47a83f1a833b87ae\classes.dex" />
+    </item>
+
+</items>
